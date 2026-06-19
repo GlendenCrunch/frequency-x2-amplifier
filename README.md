@@ -1,4 +1,4 @@
-### Frequency-x2-amplifier
+### 📡 Frequency-x2-amplifier
 Mini-Circuits frequency multiplier X2 AMK-2-13+ with amplifiers GALI-6+.
 
 If necessary, you can recalculate or remove the low-pass filter and get a multiplication up to 1 GHz
