@@ -12,7 +12,7 @@ If necessary, you can recalculate or remove the low-pass filter and get a multip
 
 + Frequency responses:
 
-![alt text](https://github.com/GlendenCrunch/frequency-x2-amplifier/blob/main/img/freq_response_1.png)
+![alt text](https://github.com/GlendenCrunch/frequency-x2-amplifier/blob/main/img/freq_resp_1.png)
 
 ![alt text](https://github.com/GlendenCrunch/frequency-x2-amplifier/blob/main/img/freq_response.png)
 
